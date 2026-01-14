@@ -1,0 +1,8 @@
+{
+  "name": "QONQAIT - AI Transformation & IT Consulting",
+  "description": "High-performance enterprise management ecosystem for AI-enabled business transformation, bridging legacy ERP with cutting-edge automation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
